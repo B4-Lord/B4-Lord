@@ -39,7 +39,8 @@
 
 ###
 
-<img align="right" height="255" src="profile.gif" />
+<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="420">
+
 
 ###
 
