@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bd34fe,100:41d1ff&section=header"/>
-<h2 align="left">Hi😺, I'm B4 Lord...</h2>
+
+<h1 align="center">Hi 😺 I'm B4 Lord</h1>
+
 
 ###
 
