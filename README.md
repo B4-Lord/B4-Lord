@@ -33,42 +33,45 @@
 
 ---
 
-<table style="border:none;border-collapse:collapse;">
-<tr style="border:none;">
+# 🎯 Learning Goals
 
-<td width="60%" style="border:none;" align="left">
+<table width="100%">
+<tr>
 
-<table style="border:none;border-collapse:collapse;">
-<tr style="border:none;">
-<td style="border:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/></td>
-<td style="border:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
-<td style="border:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/></td>
+<td width="65%" align="left">
+
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/></td>
 </tr>
 
-<tr style="border:none;">
-<td style="border:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=vue" height="40"/></td>
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=angular" height="40"/></td>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=vue" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=angular" height="40"/></td>
 </tr>
 
-<tr style="border:none;">
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></td>
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></td>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></td>
 </tr>
 
-<tr style="border:none;">
-<td style="border:none;"><img src="https://skillicons.dev/icons?i=java" height="40"/></td>
-<td style="border:none;"></td>
-<td style="border:none;"></td>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=java" height="40"/></td>
+<td></td>
+<td></td>
 </tr>
+
 </table>
 
 </td>
 
-<td width="40%" style="border:none;" align="right">
+<td width="35%" align="right">
 
-<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="360">
+<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="380">
 
 </td>
 
