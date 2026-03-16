@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=B4-Lord&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=B4-Lord&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4-Lord&layout=compact&theme=dracula" height="160"/>
 
@@ -35,11 +35,9 @@
 
 # 🎯 Learning Goals
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="420">
-</div>
-
-<div align="center">
+<table>
+<tr>
+<td width="60%" align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
@@ -52,7 +50,15 @@
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35"/>
 <img src="https://skillicons.dev/icons?i=java" height="35"/>
 
-</div>
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="350">
+
+</td>
+</tr>
+</table>
 
 ---
 
