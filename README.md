@@ -130,7 +130,7 @@ Personal page to view my VS Code settings and extensions.
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<span style="margin:10px;"></span>
 
 <a href="https://discord.com">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
