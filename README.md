@@ -35,12 +35,12 @@
 
 # 🎯 Learning Goals
 
-<table>
+<table border="0">
 <tr>
 
 <td width="60%" align="left">
 
-<table>
+<table border="0">
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
@@ -69,7 +69,7 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="360">
 
