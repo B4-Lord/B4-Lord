@@ -1,12 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=B4%20Lord&fontSize=50&fontAlign=50&fontAlignY=40&color=0:bd34fe,100:41d1ff"/>
 
----
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=B4-Lord&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4-Lord&layout=compact&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4-Lord&layout=compact&theme=dracula" height="180"/>
 
 </div>
 
