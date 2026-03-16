@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=B4%20Lord&fontSize=50&fontAlign=50&fontAlignY=40&color=0:bd34fe,100:41d1ff"/>
 
-<h1 align="center">Hi 😺 I'm B4 Lord</h1>
-<h3 align="center">💻 Developer | 🎮 Gamer | 🚀 Tech Enthusiast</h3>
-
 ---
 
 <div align="center">
