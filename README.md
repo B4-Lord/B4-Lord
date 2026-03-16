@@ -116,7 +116,7 @@ Personal page to view my VS Code settings and extensions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/output/snake.svg"/>
 
 </div>
 
