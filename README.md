@@ -80,10 +80,12 @@
 
 ---
 
-
 # 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+
+<td align="center" width="50%">
 
 🎵 **Freelancer Web Music**  
 A web platform for music freelancers.
@@ -92,6 +94,10 @@ A web platform for music freelancers.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=B4-Lord&repo=Frelancer-Web-Music&theme=dracula"/>
 </a>
 
+</td>
+
+<td align="center" width="50%">
+
 🌐 **Visual Studio Config**  
 Personal page to view my VS Code settings and extensions.
 
@@ -99,7 +105,10 @@ Personal page to view my VS Code settings and extensions.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=B4-Lord&repo=VS-Code-Settings-and-Extensions&theme=dracula"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
