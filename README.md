@@ -72,6 +72,17 @@ Personal website to showcase my projects.
 🎮 **Game Experiments**  
 Small experiments and game-related projects.
 
+<div align="center">
+
+<a href="https://github.com/B4-Lord/Freelancer-Web-Music">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=B4-Lord&repo=Freelancer-Web-Music&theme=dracula"/>
+</a>
+
+<a href="https://github.com/B4-Lord/NomeDoProjeto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=B4-Lord&repo=NomeDoProjeto&theme=dracula"/>
+</a>
+
+</div>
 ---
 
 # 📊 Activity
