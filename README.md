@@ -35,8 +35,6 @@
 
 # 🎯 Learning Goals
 
-# 🎯 Learning Goals
-
 <table>
 <tr>
 
@@ -44,35 +42,36 @@
 
 <table>
 <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/></td>
 </tr>
 
 <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/></td>
-<td><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="35"/></td>
-<td><img src="https://cdn.simpleicons.org/angular/DD0031" height="35"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=vue" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=angular" height="40"/></td>
 </tr>
 
 <tr>
-<td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35"/></td>
-<td><img src="https://cdn.simpleicons.org/mysql/4479A1" height="35"/></td>
-<td><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35"/></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></td>
 </tr>
 
 <tr>
-<td><img src="https://skillicons.dev/icons?i=java" height="35"/></td>
+<td><img src="https://skillicons.dev/icons?i=java" height="40"/></td>
 <td></td>
 <td></td>
 </tr>
+
 </table>
 
 </td>
 
 <td width="40%" align="right">
 
-<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="350">
+<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/main/profile.gif" width="360">
 
 </td>
 
@@ -81,7 +80,6 @@
 
 ---
 
----
 
 # 🚀 Featured Projects
 
