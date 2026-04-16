@@ -110,16 +110,6 @@ Personal page to view my VS Code settings and extensions.
 </tr>
 </table>
 
-//---
-//
-//# 📊 Activity
-//
-//<div align="center">
-//
-//<img src="https://raw.githubusercontent.com/B4-Lord/B4-Lord/output/snake.svg"/>
-//
-//</div>
-//
 ---
 
 # 🌐 Connect With Me
